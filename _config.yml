@@ -1,0 +1,95 @@
+typography_spectrum: 0.2936812622938305
+color:
+  brandStrength: 0.01546551170758903
+  lightness: 0.773271119222045
+  saturation: 0.056104984832927585
+  rhythmicContrast: 0.5390449785627425
+  brandColors:
+    - '#C2C0D3'
+    - '#9E9BA9'
+    - '#201E11'
+    - '#6D4528'
+    - '#BA7E57'
+layout_spectrum: 0.4854868515394628
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/11e538ac-d834-443f-93f6-3bccc625021f.png
+name: ' '
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: About
+    id: 0de06ecd-d5f1-4988-987b-37c6ba66676d
+    type: content
+  - name: Twitter
+    url: 'https://twitter.com/itsforrestlove'
+    type: external
+  - name: Photos
+    url: 'https://www.instagram.com/forrest/'
+    type: external
+  - name: Videos
+    url: 'https://vimeo.com/forrestmusic'
+    type: external
+title: Forrest
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/49fc6a9c-01d5-451e-b171-19f374efac15.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/49fc6a9c-01d5-451e-b171-19f374efac15.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9860394-958e-432a-bc3c-7588f7c601e2.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9860394-958e-432a-bc3c-7588f7c601e2.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: ''
+purpose:
+  - type: external
+    url: 'https://soundcloud.com/forrestmusic/tracks'
+    label: Listen on SoundCloud
+  - type: contact
+    url: 'mailto:contactforrestmusic@gmail.com'
+    label: Contact me
+github: true
