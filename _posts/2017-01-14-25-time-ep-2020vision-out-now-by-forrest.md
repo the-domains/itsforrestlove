@@ -63,13 +63,13 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://soundcloud.com/forrestmusic/25-time-ep-2020vision'
 title: 25 - TIME EP // 2020VISION - OUT NOW by FORREST
-datePublished: '2017-01-14T18:34:28.794Z'
-dateModified: '2017-01-14T18:30:55.619Z'
-datePublishedOriginal: '2017-01-14T18:34:28.794Z'
+datePublished: '2017-01-14T18:35:44.346Z'
+dateModified: '2017-01-14T18:35:43.331Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-01-14-25-time-ep-2020vision-out-now-by-forrest.md
+starred: false
+datePublishedOriginal: '2017-01-14T18:34:28.794Z'
 _type: AudioObject
 _context: 'http://schema.org'
 
